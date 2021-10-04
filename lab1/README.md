@@ -13,4 +13,4 @@ To run the code write the following command (using Python 3.x.x):
 $  python3 "name_of_file".py
 ```
 > All the information about lab is reflected in .py scripts in form of commentaries.
-> Link to my Git: 
+> Link to my Git: https://github.com/maslihov-vlad
