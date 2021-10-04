@@ -1,6 +1,6 @@
 # Lab 1: Creational Design Patterns
 
->The main goal of this lab work is get common with Creational Design Patterns and code some examples. I chosed Factory Method, Builder and Abstract Factory
+>The main goal of this lab work is to get common with Creational Design Patterns and code some examples. I chosed Factory Method, Builder and Abstract Factory
 
 ### Used Technologies:
 
