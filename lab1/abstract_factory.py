@@ -1,35 +1,35 @@
-class dog:
+class cow:
     def __init__(self, name):
         self.name = name
 
     def speak(self):
-        return "Woof!"
+        return "Mooooooo"
     
     def food(self):
-        return "Dog Food"
+        return "grass"
 
     def __str__(self):
-        return "dog"
+        return "cow"
 
 
-class cat:
+class mosquito:
     def __init__(self, name):
         self.name = name
 
     def speak(self):
-        return "Miow!"
+        return "BZZZZzzzzzz"
     
     def food(self):
-        return "Cat Food"
+        return "blood"
 
     def __str__(self):
-        return "cat"
+        return "mosquito"
 
 
-def get_pet(pet="dog"):
+def get_pet(pet="cow"):
     """the factory method"""
 
-    pets = dict(dog=dog("petty"), cat=cat("kitty"))
+    pets = dict(cow=cow("Jessy"), mosquito=mosquito("Draco"))
     return pets[pet]
 
 class petfactory:
@@ -53,11 +53,11 @@ class petStore:
 
         print(f"the pet is {pet} and the food is {food}, and {pet} speaks {pet.speak()}")
 
-dogClass = petfactory('dog')
-petStore(dogClass).show_pet()
+cowClass = petfactory('cow')
+petStore(cowClass).show_pet()
 
-catClass = petfactory('cat')
-petStore(catClass).show_pet()
+mosquitoClass = petfactory('mosquito')
+petStore(mosquitoClass).show_pet()
 
 
 
