@@ -6,9 +6,13 @@
 
 - Windows 10 
 - Python 3.x.x
+- Kotlin
+- Intelij Idea
 
 
-To run the code write the following command (using Python 3.x.x): 
+To run the kotlin code use Intelij Idea IDE 
+
+To run the python  code write the following command (using Python 3.x.x): 
 ```sh
 $  python3 "name_of_file".py
 ```
