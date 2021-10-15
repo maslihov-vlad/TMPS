@@ -9,8 +9,22 @@
 - Kotlin
 - Intelij Idea
 
+### Implementation:
+Factory------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/137463850-7d392d7e-2e25-4096-8fe4-bbe546de790a.png)
+Builder------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/137463928-e0ac5b62-72f1-4b6e-98d9-aae50c157dfc.png)
+-------------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/137464446-25bd05d3-76a9-4a98-a4aa-e1de88648a8a.png)
 
-To run the kotlin code use Intelij Idea IDE 
+Main---------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/137464532-b41480a9-a4b4-4646-a19a-8c59764ffe09.png)
+
+### Result
+![изображение](https://user-images.githubusercontent.com/71000648/137468216-ea99763a-8f82-4197-ae3c-e6eee54ca74f.png)
+![изображение](https://user-images.githubusercontent.com/71000648/137468259-a05f1ee4-c4f2-48b5-badd-8b11475358b7.png)
+
+>To run the kotlin code use Intelij Idea IDE 
 
 To run the python  code write the following command (using Python 3.x.x): 
 ```sh
