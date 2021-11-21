@@ -12,25 +12,35 @@
 
 ### Implementation:
 Composite------------------------------------------
-![изображение](https://user-images.githubusercontent.com/71000648/137463850-7d392d7e-2e25-4096-8fe4-bbe546de790a.png)
-Builder------------------------------------------
-![изображение](https://user-images.githubusercontent.com/71000648/137463928-e0ac5b62-72f1-4b6e-98d9-aae50c157dfc.png)
--------------------------------------------------
-![изображение](https://user-images.githubusercontent.com/71000648/137464446-25bd05d3-76a9-4a98-a4aa-e1de88648a8a.png)
+![изображение](https://user-images.githubusercontent.com/71000648/142760755-a2234329-b5f9-4e0d-8a98-faa489a9927b.png)
+Later we use this class in BookSeller - .getDescription
+---------------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/142760778-6191b6b1-d8fd-4473-a8a0-5c9be7d282bb.png)
 
-Main---------------------------------------------
+---------------------------------------------------
+Decorator------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/142760821-ccb6d9d5-2438-438a-ac00-39513c91c282.png)
+---------------------------------------------------
+We use it in BookSeller to get some discount
+-----------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/142760865-4afb3bdd-c103-4c6e-b832-61bb930f7c8d.png)
 
-![изображение](https://user-images.githubusercontent.com/71000648/137464532-b41480a9-a4b4-4646-a19a-8c59764ffe09.png)
+---------------------------------------------------
+Facade------------------------------------------
+Is used in main.kt
+-----------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/142760903-b52dbd42-0619-4c92-a1f1-2daf75492695.png)
+
+
 
 ### Result
-![изображение](https://user-images.githubusercontent.com/71000648/137468216-ea99763a-8f82-4197-ae3c-e6eee54ca74f.png)
-![изображение](https://user-images.githubusercontent.com/71000648/137468259-a05f1ee4-c4f2-48b5-badd-8b11475358b7.png)
+![изображение](https://user-images.githubusercontent.com/71000648/142760928-0c6391f0-487b-4627-b5dc-359123d576ba.png)
+-----------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/142760943-dcb022b7-e107-4240-bb5a-ede08d3eb6af.png)
+-----------------------------------------------
+![изображение](https://user-images.githubusercontent.com/71000648/142760953-8984aa80-e235-4430-928b-854a04d449ee.png)
 
 >To run the kotlin code use Intelij Idea IDE 
 
-To run the python  code write the following command (using Python 3.x.x): 
-```sh
-$  python3 "name_of_file".py
-```
-> All the information about lab is reflected in .py scripts in form of commentaries.
+
 > Link to my Git: https://github.com/maslihov-vlad
