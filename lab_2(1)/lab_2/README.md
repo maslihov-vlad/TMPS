@@ -13,6 +13,7 @@
 ### Implementation:
 Composite------------------------------------------
 ![изображение](https://user-images.githubusercontent.com/71000648/142760755-a2234329-b5f9-4e0d-8a98-faa489a9927b.png)
+---------------------------------------------------
 Later we use this class in BookSeller - .getDescription
 ---------------------------------------------------
 ![изображение](https://user-images.githubusercontent.com/71000648/142760778-6191b6b1-d8fd-4473-a8a0-5c9be7d282bb.png)
