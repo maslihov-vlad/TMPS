@@ -16,13 +16,16 @@
 
 ----------------------------------------------------------------
 >PhrasesSet interface
+
 ![изображение](https://user-images.githubusercontent.com/71000648/144848647-b27e1239-872f-43b8-be95-58d76eb100c0.png)
 ----------------------------------------------------------------
 The Morning, Afternoon and Evening classes implement the PhrasesSet interface and are specific states. They can also change the state themselves (the line seller.setphrasesset(Afternoon()))
 >Example:
+
 ![изображение](https://user-images.githubusercontent.com/71000648/144848867-f0d4231d-0d3a-4ebb-ab93-24ed5cd2b335.png)
 ----------------------------------------------------------------
 >Using PhrasesSet in the BookSeller class
+
 ![изображение](https://user-images.githubusercontent.com/71000648/144849047-12bb280b-035a-45e6-b3ec-6310832355c2.png)
 ![изображение](https://user-images.githubusercontent.com/71000648/144849104-135d15fa-c461-46fb-81da-d7ad5b1899ee.png)
 ----------------------------------------------------------------
