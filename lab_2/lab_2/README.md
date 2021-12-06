@@ -1,4 +1,4 @@
-# Lab 1: Structural Design Patterns
+# Lab 2: Structural Design Patterns
 
 >The main goal of this lab work is to get common with Structural Design Patterns and code some addons to our first lab work. I chosed Composite, Decorator and Facade as patterns to implement.
 
